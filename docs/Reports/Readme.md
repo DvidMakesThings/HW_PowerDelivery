@@ -1,10 +1,10 @@
-# USB-C_PowerDelivery Project
+# USB-C_PowerDelivery Project Reports
 
 ## Contents
-This folder contains all the documents related to the USB-C_PowerDelivery project.
+This folder contains various reports related to the USB-C_PowerDelivery project.
 
 ## Usage
-To use the files in this project, navigate to the respective directories and follow the instructions provided in each document.
+To view the reports, simply open the files in this directory.
 
 ## License
 This project is licensed under the MIT License.

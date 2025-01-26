@@ -1,10 +1,10 @@
-# USB-C_PowerDelivery Project
+# USB-C_PowerDelivery Project Software Components
 
 ## Contents
-This folder contains all the documents related to the USB-C_PowerDelivery project.
+This folder contains the software components for the USB-C_PowerDelivery project.
 
 ## Usage
-To use the files in this project, navigate to the respective directories and follow the instructions provided in each document.
+To use the software, follow the instructions provided in the respective files and directories.
 
 ## License
 This project is licensed under the MIT License.
